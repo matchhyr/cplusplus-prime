@@ -19,8 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{4DDDC906-716D-4D35-8BE1-774931996D08}</ProjectGuid>
-    <RootNamespace>vector</RootNamespace>
+    <ProjectGuid>{29FB20C0-DF27-4083-9769-BABCD41E7084}</ProjectGuid>
+    <RootNamespace>Project3</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -110,14 +110,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="vector_unsort.h" />
-    <ClInclude Include="vector_subscript.h" />
-    <ClInclude Include="vector.h" />
-    <ClInclude Include="vector_constructor_copyFrom.h" />
-    <ClInclude Include="vector_expand.h" />
-    <ClInclude Include="vector_implement.h" />
-    <ClInclude Include="vector_shrink.h" />
-    <ClInclude Include="vector_assignment.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

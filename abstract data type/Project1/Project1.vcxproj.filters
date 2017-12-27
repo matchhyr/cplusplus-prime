@@ -14,30 +14,4 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="vector.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="vector_constructor_copyFrom.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="vector_implement.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="vector_expand.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="vector_shrink.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="vector_assignment.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="vector_subscript.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="vector_unsort.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-  </ItemGroup>
 </Project>
