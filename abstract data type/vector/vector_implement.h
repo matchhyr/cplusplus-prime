@@ -6,7 +6,11 @@
 * 在export尚未被编译器支持前，如此可将定义与实现分离，以便查看
 ******************************************************************************************/
 #include "../_share/release.h"
-#include "../_share/util.h"
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+#include <math.h>
+#include <typeinfo.h>
 
 #include "vector_bracket.h"
 #include "vector_assignment.h"
